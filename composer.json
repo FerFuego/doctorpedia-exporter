@@ -1,0 +1,12 @@
+{
+    "name": "doctorpedia/doctorpedia-exporter",
+    "authors": [
+        {
+            "name": "Fer Catalano",
+            "email": "fer@wcanvas.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.20"
+    }
+}
